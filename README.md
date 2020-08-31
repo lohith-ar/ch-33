@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-33
+## Boilerplate Repository - Challenge-33 - Optimizing Sorting Algorithm
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
